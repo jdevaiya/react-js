@@ -44,4 +44,4 @@ npm run dev
     tailwindcss()
 
 ### in index.css remove all text and write this 
-    import "tailwindcss"
+    @import "tailwindcss"
